@@ -29,9 +29,9 @@ class Buttons extends StatelessWidget {
                   ButtonBase(
                       width: _buttonWidth, onTap: _handleTap, value: 'delete'),
                   ButtonBase(
-                      width: _buttonWidth, onTap: _handleTap, value: 'clear'),
+                      width: _buttonWidth, onTap: _handleTap, value: 'clearAll'),
                   ButtonBase(
-                      width: _buttonWidth, onTap: _handleTap, value: 'percent'),
+                      width: _buttonWidth, onTap: _handleTap, value: 'clear'),
                   ButtonBase(
                       width: _buttonWidth, onTap: _handleTap, value: 'divide'),
                 ],
